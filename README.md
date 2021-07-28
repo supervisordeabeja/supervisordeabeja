@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supervisordeabeja, aka Cocarlitos
+- 👋 Hi, I’m @supervisordeabeja, AKA Cocarlitos
 - 👀 I Like Coca Cola and horror videogames, especially Silent Hill.
 - 🌱 I’m currently learning React, React Native, Angular and NodeJS ... and yes
   I'm trying to finish my career.
